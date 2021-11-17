@@ -29,6 +29,8 @@ npx react-native run-android
 or 
 ```
 npx react-native run-ios
+```
+
 
 # Author
 ## Carlos Alberto Sevilla Fernandez
