@@ -8,7 +8,7 @@
 
 # Built
 ## Development Technologies
-![](https://img.shields.io/badge/Mobile-React-Native-blue)
+![](https://img.shields.io/badge/Mobile-ReactNative-blue)
 
 # Getting Start
 ```
